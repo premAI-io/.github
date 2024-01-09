@@ -4,10 +4,8 @@ Our vision is to engineer a world where individuals, developers, and businesses 
 
 ### 🛠️ Get started with Prem:
 
-- Install [Prem App](https://github.com/premAI-io/prem-app) in your Infrastructure.
-- Check out our [Documentantion](https://dev.premai.io/) to learn how to use Prem.
-- Learn more about the models we expose in our [Registry](https://registry.premai.io/).
-- Try out our [Demo Instance](https://app.prem.ninja).
+- SignUp [here](https://app.premai.io).
+- Check out the Playground [here](https://playground.premai.io).
 
 ### 🌍 Join our community:
 
@@ -17,7 +15,5 @@ Our vision is to engineer a world where individuals, developers, and businesses 
 
 ### 💼 We are Hiring:
 
-- [Tech Lead (Rust)](https://premai.notion.site/Tech-Lead-Rust-Prem-14c03124f87f49f59871fe6ab0d9274f?pvs=4)
-- [Senior SW Engineer (Rust)](https://premai.notion.site/Senior-Software-Engineer-Rust-Prem-6fb676d2f23c4d8698c40d4b5965bfdd?pvs=4)
 - [Senior ML Engineer](https://premai.notion.site/Senior-Data-Scientist-Prem-1863f1e72c2f4d8894eb6e49154e9256?pvs=4)
 - [Data Science Intern](https://premai.notion.site/Data-Science-Intern-Prem-85cc518494cb470fb4e484ed40e3e5f7?pvs=4)
