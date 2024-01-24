@@ -6,6 +6,10 @@ Our vision is to engineer a world where individuals, developers, and businesses 
 
 - SignUp [here](https://app.premai.io).
 
+### Grant Program
+
+- We have a Grant Program for Generative AI Startups. You can check the details [here](https://blog.premai.io/announcing-our-startup-grants-program/).
+
 ### 🌍 Join our community:
 
 - Be part of the community by joining our [Discord](https://discord.com/invite/kpKk6vYVAn).
