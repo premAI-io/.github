@@ -5,13 +5,11 @@ Our vision is to engineer a world where individuals, developers, and businesses 
 ### 🛠️ Get started with Prem:
 
 - SignUp [here](https://app.premai.io).
-- Check out the Playground [here](https://playground.premai.io).
 
 ### 🌍 Join our community:
 
 - Be part of the community by joining our [Discord](https://discord.com/invite/kpKk6vYVAn).
 - To stay in touch follow us on [Twitter](https://twitter.com/premai_io).
-- To report bugs or ask for support open an issue on our main [Github repository](https://github.com/premAI-io/prem-app).
 
 ### 💼 We are Hiring:
 
