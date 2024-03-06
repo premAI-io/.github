@@ -20,3 +20,5 @@ We envision a future where everyone can access and own powerful, private, and pe
 
 - [Senior ML Engineer](https://premai.notion.site/Senior-Data-Scientist-Prem-1863f1e72c2f4d8894eb6e49154e9256?pvs=4)
 - [Data Science Intern](https://premai.notion.site/Data-Science-Intern-Prem-85cc518494cb470fb4e484ed40e3e5f7?pvs=4)
+- [DevRel San Francisco](https://premai.notion.site/DevRel-SF-Prem-dc1c75465f044b33856bfc4a32ca708f)
+- [Sales Engineer](https://premai.notion.site/Sales-Engineer-Prem-bf451eb9b61347a19ee36daf095a25b6)
