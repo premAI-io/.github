@@ -1,4 +1,4 @@
-# Yoo 🤙 Welcome to Prem
+# Welcome to Prem
 
 We envision a future where everyone can access and own powerful, private, and personalized AI models, unlocking AI's full potential for the benefit of all.
 
