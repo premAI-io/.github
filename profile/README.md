@@ -1,10 +1,10 @@
 # Welcome to Prem
 
-We envision a future where everyone can access and own powerful, private, and personalized AI models, unlocking AI's full potential for the benefit of all.
+We envision a future where everyone can access and own powerful, private, and personalized AI models, unlocking AI's full potential for the benefit of all. 
 
 ### 🛠️ Get started with Prem:
 
-- SignUp to our Dev Platform [here](https://app.premai.io): bring Generative AI into your business with proprietary models and confidence. Everything you need to get AI into Production from Evaluation, Monitoring, Fine-tuning, and Deployment.
+- SignUp to our Dev Platform [here](https://app.premai.io): effortlessly Integrate Generative AI into Your Applications with Full Ownership and Confidence.
 
 ### Grant Program
 
