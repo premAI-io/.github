@@ -25,3 +25,4 @@ We envision a future where everyone can access and own powerful, private, and pe
 - [Tech Lead](https://premai.notion.site/Tech-Lead-Prem-b6917aeaec0c480dac99eeed99cdb91b)
 - [Django Fullstack Dev](https://premai.notion.site/Django-Fullstack-Dev-Prem-1e26b8efccdc4663809036ab333920e3)
 - [Lead Designer](https://premai.notion.site/Lead-Designer-Prem-82a2e94a8a86484e85a4657947784915)
+- [Senior Frontend Engineer](https://premai.notion.site/Senior-Frontend-Engineer-20d406ccb1ce4b4a806d386fae5d8dd4)
