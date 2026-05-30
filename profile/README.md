@@ -1,22 +1,63 @@
-# Welcome to Prem
+<a href="https://www.premai.io/">
+  <img alt="Prem · Private Super Intelligence" src="/profile/banner.png" width="100%">
+</a>
 
-We envision a future where everyone can access and own powerful, private, and personalized AI models, unlocking AI's full potential for the benefit of all. 
+<p align="center">
+  <strong>AI that you own. Self-Sovereign AI Infrastructure.</strong><br>
+  Frontier models on your hardware. Confidential compute, cryptographic attestation, zero vendor lock-in.
+</p>
 
-### 🛠️ Get started with Prem:
+---
 
-- SignUp to our Dev Platform [here](https://app.premai.io): effortlessly Integrate Generative AI into Your Applications with Full Ownership and Confidence.
+## What We Build
 
-### Grant Program
+Prem makes AI private, verifiable, and sovereign. Regulated industries — healthcare, finance, defense, government — run frontier models inside hardware‑sealed Trusted Execution Environments. Your data never touches a disk. It vanishes from memory the moment inference is done.
 
-- We have a Grant Program for Generative AI Startups. You can check the details [here](https://blog.premai.io/announcing-our-startup-grants-program/).
+Every interaction generates a hardware‑signed proof you can audit. Trust, but verify.
 
-### 🌍 Join our community:
+**Your models. Your infrastructure. Your keys.** No vendor lock-in. No inference-cost volatility. No leap of faith.
 
-- Be part of the community by joining our [Discord](https://discord.com/invite/kpKk6vYVAn).
-- To stay in touch follow us on [Twitter](https://twitter.com/premai_io).
-- Subscribe to our Blog [here](https://blog.premai.io/). 
+---
 
-### 💼 We are Hiring:
+## The Stack
 
-- [Senior ML Engineer](https://premai.notion.site/Senior-ML-Engineer-Prem-1863f1e72c2f4d8894eb6e49154e9256)
-- [Senior Full Stack Dev](https://premai.notion.site/Senior-Fullstack-Developer-Prem-1e26b8efccdc4663809036ab333920e3)
+| Product | Description |
+|---|---|
+| **Prem Enclave** | Verifiable AI infrastructure for on-premise, multi-cloud, and VPCs. One hypervisor across any environment. Secure enclaves, post‑quantum encryption (XWing hybrid: X25519 + ML‑KEM 768), cryptographic attestation for every payload. |
+| **Confidential API** | Drop‑in replacement (OpenAI‑compatible) for LLMs, VLMs, and voice transcription with Deepgram. <40ms latency, zero data retention, zero code rewrites. |
+| **Fluso** | A private AI workspace with compounding memory, 50+ connectors, and cross‑silo workflows. Automated flow, full context, complete control. |
+
+---
+
+## Why Prem
+
+**Private.** Inference runs inside volatile enclave memory. Your data never hits a disk. It never leaks to a cloud operator. It is gone the moment it is done.
+
+**Verifiable.** Every payload gets a hardware‑signed proof. You audit who accessed what, and when. No pinky promises, no unenforceable DPAs.
+
+**Sovereign.** Your models run on your infrastructure. You own every layer of the stack. Post‑quantum encryption keeps it yours for decades, not quarters.
+
+---
+
+## Get Started
+
+- **Developers:** [Confidential API Docs](https://www.premai.io/confidential-api)
+- **Enterprise:** [Request a Prem Enclave demo](https://www.premai.io/prem-enclave)
+- **Fluso:** [Join the Waitlist](https://www.premai.io/)
+- **Blog:** [blog.premai.io](https://blog.premai.io/)
+- **Security:** [premai.io/security](https://www.premai.io/security)
+
+---
+
+<p align="center">
+  <a href="https://prem.io">Website</a> ·
+  <a href="https://blog.premai.io">Blog</a> ·
+  <a href="https://x.com/premai_io">X</a> ·
+  <a href="https://linkedin.com/company/premai">LinkedIn</a> ·
+  <a href="mailto:hello@premai.io">e-mail</a>
+</p>
+
+<p align="center">
+  Designed & powered in Switzerland 🇨🇭<br>
+  Lugano · Wilmington · Putignano
+</p>
